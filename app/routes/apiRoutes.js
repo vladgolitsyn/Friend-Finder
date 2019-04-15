@@ -1,3 +1,5 @@
+// note to TA - GET route added, need to add POST route and compatibility calculation logic.
+
 // Add friends data source
 var path = require("path");
 var friendsData = require("../data/friends.js");
